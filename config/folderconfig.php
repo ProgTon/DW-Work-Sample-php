@@ -1,5 +1,6 @@
 <?php
-//CAN ONLY BE CONFIGURED BEFORE ANY FILES HAS BEEN UPLOADED
+//EACH VARIABLE CAN ONLY BE CONFIGURED WHILE IT IS EMPTY. 
+//EXAMPLE: the unprocessed folder can be renamed to 'unprocessed_files' as long as it is empty, even if the other folders in the dir has files in them. 
 
 //================ CONFIGURABLE VARIABLES ======================//
 	$dir = 'files'; //Name of the folder which will contain the following 3 folders. 
