@@ -45,7 +45,7 @@ The folder 'PROJECTFOLDER' is the name of the project root folder.
 ## 3. Setup instructions for the folders which will contain the CSV-files
 
 Open up config/folderconfig.php in ur texteditor.
-There are 3 variables that can be configured. UnprocessedFolder, ProcessFolder and HistoryFolder.
+There are 4 variables that can be configured. dir, unprocessedFolder, processFolder and historyFolder.
 
 ## 4. Setup instructions for the database
 
